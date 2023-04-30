@@ -1,1 +1,1 @@
-Reformatted simple project for AP:CSP for BHS
+# Simple intro project for AP Computer Science Principles at BHS
